@@ -8,4 +8,5 @@ public interface Interface2 {
     {
     System.out.println("I2 logging::"+str);
     }
+    
 }

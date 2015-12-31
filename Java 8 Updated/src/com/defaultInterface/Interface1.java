@@ -14,4 +14,7 @@ public interface Interface1
     {
     System.out.println("Printing interface1 "+str);
     }
+    
+    
+    
 }

@@ -5,6 +5,7 @@ public class MyClass implements Interface1, Interface2
 	@Override
     public void method2()
 	{
+		
 	System.out.println(">>>>>>>>>>>>>>>>>>> implement method of the interface2");
     }
 	
